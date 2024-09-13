@@ -1,0 +1,111 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Projets",
+    "section": "",
+    "text": "Trier par\n       Ordre par défaut\n         \n          Date - Le plus ancien\n        \n         \n          Date - Le plus récent\n        \n         \n          Titre\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMIDAS (MIcroclimate DAta Stories)\n\n\n\n\n\n\nDjango\n\n\nPython\n\n\nCuration de données\n\n\n\nCréation d’un Dashboard pour le projet MIDAS faisant partie des 5 projets sélectionnés pour l’appel à projets Territoire en Recherches 2020-2023.\n\n\n\n\n\n22 mars 2024\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nDétection rapide de jets basée sur l’apprentissage automatique pour le traitement en temps réel sur FPGA au sein de l’expérience ATLAS au LHC\n\n\n\n\n\n\nPython\n\n\nData\n\n\nMachine Learning\n\n\n\nTravail réalisé dans le cadre du Master en Sciences Informatique de l’Université de Genève.\n\n\n\n\n\n05 février 2024\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nWikichain\n\n\n\n\n\n\nWikibase\n\n\n\nWikichain est une base de connaissance structurée sur la blockchain et un des résultats du projet de recherche FairChain.\n\n\n\n\n\n31 août 2023\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nINCIPIT Current Research Information System (INCIPIT-CRIS)\n\n\n\n\n\n\nDjango\n\n\nPython\n\n\nWeb sémantique\n\n\nOntologie\n\n\n\nLe projet INCIPIT-CRIS a pour but de combiner un service de base d’attribution d’un identifiant pérenne avec un Current Research Information System (CRIS) et un ensemble d’algorithmes pour la désambiguïsation et l’interopérabilité.\n\n\n\n\n\n22 août 2022\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nUrbanisons l’espace numérique\n\n\n\n\n\n\nJavaScript\n\n\n\nCréation d’un espace virtuel sous forme de site web pour repenser, imaginer et redessiner la ville dans le cadre du projet Urbanisons l’espace numérique.\n\n\n\n\n\n07 mai 2022\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nCorrespondance de modèles pour la classification de signaux issus de réseaux de microélectrodes en temps réel implémenté sur FPGA\n\n\n\n\n\n\nPython\n\n\nVHDL\n\n\nFPGA\n\n\nAnalyse de données\n\n\n\nTravail réalisé dans le cadre du Bachelor en Ingénierie des technologies de l’information à HEPIA.\n\n\n\n\n\n28 août 2020\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "David Nogueiras Blanco",
+    "section": "",
+    "text": "Assistant HES | Haute Ecole de Gestion de Genève (HEG) — Décembre 2020 - à aujourd’hui"
+  },
+  {
+    "objectID": "masterthesis.html",
+    "href": "masterthesis.html",
+    "title": "Travail de master",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Projets",
+      "Travail de master"
+    ]
+  },
+  {
+    "objectID": "projects/masterthesis.html",
+    "href": "projects/masterthesis.html",
+    "title": "Détection rapide de jets basée sur l’apprentissage automatique pour le traitement en temps réel sur FPGA au sein de l’expérience ATLAS au LHC",
+    "section": "",
+    "text": "Histoire de mon travail de master."
+  },
+  {
+    "objectID": "about.html#about-this-blog",
+    "href": "about.html#about-this-blog",
+    "title": "David Nogueiras Blanco",
+    "section": "",
+    "text": "This is the contents of the about page for my blog."
+  },
+  {
+    "objectID": "about.html#expérience-professionnelle",
+    "href": "about.html#expérience-professionnelle",
+    "title": "David Nogueiras Blanco",
+    "section": "",
+    "text": "Assistant HES | Haute Ecole de Gestion de Genève (HEG) — Décembre 2020 - à aujourd’hui"
+  },
+  {
+    "objectID": "projects/bachelorproject.html",
+    "href": "projects/bachelorproject.html",
+    "title": "Correspondance de modèles pour la classification de signaux issus de réseaux de microélectrodes en temps réel implémenté sur FPGA",
+    "section": "",
+    "text": "Histoire de mon travail de bachelor."
+  },
+  {
+    "objectID": "about.html#etudes",
+    "href": "about.html#etudes",
+    "title": "David Nogueiras Blanco",
+    "section": "Etudes",
+    "text": "Etudes\nMaster en sciences informatiques | Université de Genève — Septembre 2020 - Février 2024\nBachelor en Ingénierie des technologies de l’information | Haute école du paysage, d’ingénierie et d’architecture (HEPIA) — Septembre 2017 - Août 2020"
+  },
+  {
+    "objectID": "about.html#compétences",
+    "href": "about.html#compétences",
+    "title": "David Nogueiras Blanco",
+    "section": "Compétences",
+    "text": "Compétences\nLangages de programmation : Python, JavaScript, Java, C, R, C#, VHDL, SQL.\nTechnologie de conteneurisation : Docker.\nFrameworks : Django, flask.\nBases de données : MySQL, Postgresql.\nAutres : Tensorflow."
+  },
+  {
+    "objectID": "about.html#langues",
+    "href": "about.html#langues",
+    "title": "David Nogueiras Blanco",
+    "section": "Langues",
+    "text": "Langues\nFrançais - Langue maternelle Espagnol - Langue maternelle Anglais - Professionnel"
+  },
+  {
+    "objectID": "projects/incipit-cris.html",
+    "href": "projects/incipit-cris.html",
+    "title": "INCIPIT Current Research Information System (INCIPIT-CRIS)",
+    "section": "",
+    "text": "Histoire de INCIPIT-CRIS."
+  },
+  {
+    "objectID": "projects/midas.html",
+    "href": "projects/midas.html",
+    "title": "MIDAS (MIcroclimate DAta Stories)",
+    "section": "",
+    "text": "Histoire de MIDAS."
+  },
+  {
+    "objectID": "projects/urbanisons_l_espace_numerique.html",
+    "href": "projects/urbanisons_l_espace_numerique.html",
+    "title": "Urbanisons l’espace numérique",
+    "section": "",
+    "text": "Histoire du projet Urbanisons l’espace numérique."
+  },
+  {
+    "objectID": "projects/fairchain.html",
+    "href": "projects/fairchain.html",
+    "title": "Wikichain",
+    "section": "",
+    "text": "Histoire du projet FairChain et Wikichain."
+  },
+  {
+    "objectID": "projects/wikichain.html",
+    "href": "projects/wikichain.html",
+    "title": "Wikichain",
+    "section": "",
+    "text": "Histoire du projet FairChain et Wikichain."
+  }
+]

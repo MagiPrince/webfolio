@@ -1,0 +1,20 @@
+---
+title: "Projets"
+lang: fr
+listing:
+    contents: projects
+    sort: 
+        - "date desc"
+    type: default
+    categories: true
+    sort-ui: [date, title]
+    filter-ui: [date, title]
+    date-format: "DD MMMM YYYY"
+    # sort-ui: false
+    # filter-ui: false
+
+website:
+  back-to-top-navigation: true
+# page-layout: full
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Wikichain"
+lang: fr
+date-format: "DD MMMM YYYY"
+description: "Wikichain est une base de connaissance structurée sur la blockchain et un des résultats du projet de recherche FairChain."
+author: "David Nogueiras Blanco"
+date: "08/31/2023"
+categories:
+    - Wikibase
+image: ../images/wikichain/wikichain.png
+---
+
+Histoire du projet FairChain et Wikichain.

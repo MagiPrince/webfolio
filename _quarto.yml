@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "David Nogueiras Blanco"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Projets
+      - href: about.qmd
+        text: A propos
+    # tools:
+    #   - icon: github
+    #     menu:
+    #       - text: Code Source
+    #         href:  https://github.com/MagiPrince/webfolio
+    #       - text: Projets GitHub
+    #         href:  
+    #   - icon: linkedin
+    #     href: https://www.linkedin.com/in/david-nogueiras-blanco-a045041a3/
+  # sidebar:
+  #   style: "docked"
+  #   # search: true
+  #   subtitle: Liste des projets
+  #   contents:
+  #     - masterthesis.qmd
+  page-footer:
+    background: light
+    left: "David Nogueiras Blanco - 2024"
+    right:
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/david-nogueiras-blanco-a045041a3/
+      - icon: github
+        href: https://github.com/MagiPrince
+
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+
+
+

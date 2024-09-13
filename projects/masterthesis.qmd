@@ -1,0 +1,15 @@
+---
+title: "Détection rapide de jets basée sur l’apprentissage automatique pour le traitement en temps réel sur FPGA au sein de l’expérience ATLAS au LHC"
+lang: fr
+date-format: "DD MMMM YYYY"
+description: "Travail réalisé dans le cadre du Master en Sciences Informatique de l'Université de Genève."
+author: "David Nogueiras Blanco"
+date: "02/05/2024"
+categories:
+    - Python
+    - Data
+    - Machine Learning
+image: ../images/masterthesis/ATLAS_calorimeter.jpg
+---
+
+Histoire de mon travail de master.

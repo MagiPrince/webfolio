@@ -1,0 +1,13 @@
+---
+title: "Urbanisons l’espace numérique"
+lang: fr
+date-format: "DD MMMM YYYY"
+description: "Création d'un espace virtuel sous forme de site web pour repenser, imaginer et redessiner la ville dans le cadre du projet Urbanisons l’espace numérique."
+author: "David Nogueiras Blanco"
+date: "05/07/2022"
+categories:
+    - JavaScript
+image: ../images/urbanisons_l_espace_numerique/illustration-urbanisons-l-espace-numerique.jpg
+---
+
+Histoire du projet Urbanisons l’espace numérique.

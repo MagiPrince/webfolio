@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/midas.html",
+      "/projects/masterthesis.html",
+      "/projects/wikichain.html",
+      "/projects/incipit-cris.html",
+      "/projects/urbanisons_l_espace_numerique.html",
+      "/projects/bachelorproject.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/404.html",
+      "/index.html",
+      "/projects/masterthesis.html"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+---
+title: "INCIPIT Current Research Information System (INCIPIT-CRIS)"
+lang: fr
+date-format: "DD MMMM YYYY"
+description: "Le projet INCIPIT-CRIS a pour but de combiner un service de base d’attribution d’un identifiant pérenne avec un Current Research Information System (CRIS) et un ensemble d’algorithmes pour la désambiguïsation et l’interopérabilité."
+author: "David Nogueiras Blanco"
+date: "08/22/2022"
+categories:
+    - Django
+    - Python
+    - Web sémantique
+    - Ontologie
+# image: ../images/
+---
+
+Histoire de INCIPIT-CRIS.

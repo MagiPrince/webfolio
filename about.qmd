@@ -1,0 +1,45 @@
+---
+title: "David Nogueiras Blanco"
+lang: fr
+about:
+  template: trestles
+  image: images/photo/photo.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/david-nogueiras-blanco-a045041a3/
+    - icon: github
+      text: GitHub
+      href: https://github.com/MagiPrince
+    # (additional links excluded for brevity)
+website:
+  back-to-top-navigation: true
+---
+
+## Expérience professionnelle
+
+**Assistant HES** | Haute Ecole de Gestion de Genève (HEG) — Décembre 2020 - à aujourd'hui
+
+## Etudes
+
+**Master en sciences informatiques** | Université de Genève — Septembre 2020 - Février 2024
+
+**Bachelor en Ingénierie des technologies de l'information** | Haute école du paysage, d'ingénierie et d'architecture (HEPIA) — Septembre 2017 - Août 2020
+
+## Compétences
+
+Langages de programmation : Python, JavaScript, Java, C, R, C#, VHDL, SQL.
+
+Technologie de conteneurisation : Docker.
+
+Frameworks : Django, flask.
+
+Bases de données : MySQL, Postgresql.
+
+Autres : Tensorflow.
+
+## Langues
+
+Français - Langue maternelle
+Espagnol - Langue maternelle
+Anglais - Professionnel

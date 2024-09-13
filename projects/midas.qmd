@@ -1,0 +1,15 @@
+---
+title: "MIDAS (MIcroclimate DAta Stories)"
+lang: fr
+date-format: "DD MMMM YYYY"
+description: "Création d'un Dashboard pour le projet MIDAS faisant partie des 5 projets sélectionnés pour l'appel à projets Territoire en Recherches 2020-2023."
+author: "David Nogueiras Blanco"
+date: "03/22/2024"
+categories:
+    - Django
+    - Python
+    - Curation de données
+image: ../images/midas/midas.png
+---
+
+Histoire de MIDAS.

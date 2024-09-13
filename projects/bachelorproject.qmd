@@ -1,0 +1,16 @@
+---
+title: "Correspondance de modèles pour la classification de signaux issus de réseaux de microélectrodes en temps réel implémenté sur FPGA"
+lang: fr
+date-format: "DD MMMM YYYY"
+description: "Travail réalisé dans le cadre du Bachelor en Ingénierie des technologies de l'information à HEPIA."
+author: "David Nogueiras Blanco"
+date: "08/28/2020"
+categories:
+    - Python
+    - VHDL
+    - FPGA
+    - Analyse de données
+image: ../images/bachelorproject/spike.jpg
+---
+
+Histoire de mon travail de bachelor.
