@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Projets",
     "section": "",
-    "text": "Trier par\n       Ordre par défaut\n         \n          Date - Le plus ancien\n        \n         \n          Date - Le plus récent\n        \n         \n          Titre\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMIDAS (MIcroclimate DAta Stories)\n\n\n\n\n\n\nDjango\n\n\nPython\n\n\nCuration de données\n\n\n\nCréation d’un Dashboard pour le projet MIDAS faisant partie des 5 projets sélectionnés pour l’appel à projets Territoire en Recherches 2020-2023.\n\n\n\n\n\n22 mars 2024\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nDétection rapide de jets basée sur l’apprentissage automatique pour le traitement en temps réel sur FPGA au sein de l’expérience ATLAS au LHC\n\n\n\n\n\n\nPython\n\n\nData\n\n\nMachine Learning\n\n\n\nTravail réalisé dans le cadre du Master en Sciences Informatique de l’Université de Genève.\n\n\n\n\n\n05 février 2024\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nWikichain\n\n\n\n\n\n\nWikibase\n\n\n\nWikichain est une base de connaissance structurée sur la blockchain et un des résultats du projet de recherche FairChain.\n\n\n\n\n\n31 août 2023\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nINCIPIT Current Research Information System (INCIPIT-CRIS)\n\n\n\n\n\n\nDjango\n\n\nPython\n\n\nWeb sémantique\n\n\nOntologie\n\n\n\nLe projet INCIPIT-CRIS a pour but de combiner un service de base d’attribution d’un identifiant pérenne avec un Current Research Information System (CRIS) et un ensemble d’algorithmes pour la désambiguïsation et l’interopérabilité.\n\n\n\n\n\n22 août 2022\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nUrbanisons l’espace numérique\n\n\n\n\n\n\nJavaScript\n\n\n\nCréation d’un espace virtuel sous forme de site web pour repenser, imaginer et redessiner la ville dans le cadre du projet Urbanisons l’espace numérique.\n\n\n\n\n\n07 mai 2022\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nCorrespondance de modèles pour la classification de signaux issus de réseaux de microélectrodes en temps réel implémenté sur FPGA\n\n\n\n\n\n\nPython\n\n\nVHDL\n\n\nFPGA\n\n\nAnalyse de données\n\n\n\nTravail réalisé dans le cadre du Bachelor en Ingénierie des technologies de l’information à HEPIA.\n\n\n\n\n\n28 août 2020\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\nAucun article correspondant"
+    "text": "Trier par\n       Ordre par défaut\n         \n          Date - Le plus ancien\n        \n         \n          Date - Le plus récent\n        \n         \n          Titre\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMIDAS (MIcroclimate DAta Stories)\n\n\n\n\n\n\nDjango\n\n\nPython\n\n\nCuration de données\n\n\nDashboard\n\n\n\nCréation d’un Dashboard pour le projet MIDAS faisant partie des 5 projets sélectionnés pour l’appel à projets Territoire en Recherches 2020-2023.\n\n\n\n\n\n22 mars 2024\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nDétection rapide de jets basée sur l’apprentissage automatique pour le traitement en temps réel sur FPGA au sein de l’expérience ATLAS au LHC\n\n\n\n\n\n\nPython\n\n\nData\n\n\nMachine Learning\n\n\n\nTravail réalisé dans le cadre du Master en Sciences Informatique de l’Université de Genève.\n\n\n\n\n\n05 février 2024\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nWikichain\n\n\n\n\n\n\nWikibase\n\n\n\nWikichain est une base de connaissance structurée sur la blockchain et un des résultats du projet de recherche FairChain.\n\n\n\n\n\n31 août 2023\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nINCIPIT Current Research Information System (INCIPIT-CRIS)\n\n\n\n\n\n\nDjango\n\n\nPython\n\n\nWeb sémantique\n\n\nOntologie\n\n\n\nLe projet INCIPIT-CRIS a pour but de combiner un service de base d’attribution d’un identifiant pérenne avec un Current Research Information System (CRIS) et un ensemble d’algorithmes pour la désambiguïsation et l’interopérabilité.\n\n\n\n\n\n22 août 2022\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nUrbanisons l’espace numérique\n\n\n\n\n\n\nJavaScript\n\n\n\nCréation d’un espace virtuel sous forme de site web pour repenser, imaginer et redessiner la ville dans le cadre du projet Urbanisons l’espace numérique.\n\n\n\n\n\n07 mai 2022\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\n\n\n\n\n\n\nCorrespondance de modèles pour la classification de signaux issus de réseaux de microélectrodes en temps réel implémenté sur FPGA\n\n\n\n\n\n\nPython\n\n\nVHDL\n\n\nFPGA\n\n\nAnalyse de données\n\n\n\nTravail réalisé dans le cadre du Bachelor en Ingénierie des technologies de l’information à HEPIA.\n\n\n\n\n\n28 août 2020\n\n\nDavid Nogueiras Blanco\n\n\n\n\n\n\nAucun article correspondant"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "David Nogueiras Blanco",
     "section": "",
-    "text": "Assistant HES | Haute Ecole de Gestion de Genève (HEG) — Décembre 2020 - à aujourd’hui"
+    "text": "Assistant HES | Décembre 2020 - à aujourd’hui\n\n\n\nCollaboration et développement de projets scientifiques.\nParticipation à l’enseignement au sein du Bachelor Information Science.\n\n\nFormateur | Décembre 2018 - Août 2020\n\n\n\n\nAssurer les cours et ateliers d’informatique confiés.\nAssurer le suivi des élèves.\n\n\nStagiaire (année passerelle pour entrer à HEPIA) | Septembre 2016 - Août 2017\n\n\n\n\n…\n\n\nStagiaire (maturité professionnelle commerciale) | Août 2015 à Août 2016\n\n\n\n\nGestion de dossiers stagiaires, apprentis, et aides de vacances.\nMises à jour des tableaux Excel.\nRédaction de lettres, convocations, contrats, certificats."
   },
   {
     "objectID": "masterthesis.html",
@@ -43,7 +43,7 @@
     "href": "about.html#expérience-professionnelle",
     "title": "David Nogueiras Blanco",
     "section": "",
-    "text": "Assistant HES | Haute Ecole de Gestion de Genève (HEG) — Décembre 2020 - à aujourd’hui"
+    "text": "Assistant HES | Décembre 2020 - à aujourd’hui\n\n\n\nCollaboration et développement de projets scientifiques.\nParticipation à l’enseignement au sein du Bachelor Information Science.\n\n\nFormateur | Décembre 2018 - Août 2020\n\n\n\n\nAssurer les cours et ateliers d’informatique confiés.\nAssurer le suivi des élèves.\n\n\nStagiaire (année passerelle pour entrer à HEPIA) | Septembre 2016 - Août 2017\n\n\n\n\n…\n\n\nStagiaire (maturité professionnelle commerciale) | Août 2015 à Août 2016\n\n\n\n\nGestion de dossiers stagiaires, apprentis, et aides de vacances.\nMises à jour des tableaux Excel.\nRédaction de lettres, convocations, contrats, certificats."
   },
   {
     "objectID": "projects/bachelorproject.html",
@@ -57,21 +57,21 @@
     "href": "about.html#etudes",
     "title": "David Nogueiras Blanco",
     "section": "Etudes",
-    "text": "Etudes\nMaster en sciences informatiques | Université de Genève — Septembre 2020 - Février 2024\nBachelor en Ingénierie des technologies de l’information | Haute école du paysage, d’ingénierie et d’architecture (HEPIA) — Septembre 2017 - Août 2020"
+    "text": "Etudes\nMaster en sciences informatiques | Université de Genève — Septembre 2020 - Février 2024\n\nBachelor en Ingénierie des technologies de l’information | Haute école du paysage, d’ingénierie et d’architecture (HEPIA) — Septembre 2017 - Septembre 2020\n\nMaturité professionnelle commerciale | Ecole de commerce Aimée-Stitelmann — Août 2012 - Août 2016"
   },
   {
     "objectID": "about.html#compétences",
     "href": "about.html#compétences",
     "title": "David Nogueiras Blanco",
     "section": "Compétences",
-    "text": "Compétences\nLangages de programmation : Python, JavaScript, Java, C, R, C#, VHDL, SQL.\nTechnologie de conteneurisation : Docker.\nFrameworks : Django, flask.\nBases de données : MySQL, Postgresql.\nAutres : Tensorflow."
+    "text": "Compétences\nLangages de programmation : Python, JavaScript, Java, C, R, C#, VHDL, SQL.\nTechnologie de conteneurisation : Docker.\nFrameworks : Django, Flask.\nBases de données : MySQL, Postgresql, SQLite.\nSuite Microsoft Office : Word, Excel, PowerPoint, Access.\nAutres : Tensorflow."
   },
   {
     "objectID": "about.html#langues",
     "href": "about.html#langues",
     "title": "David Nogueiras Blanco",
     "section": "Langues",
-    "text": "Langues\nFrançais - Langue maternelle Espagnol - Langue maternelle Anglais - Professionnel"
+    "text": "Langues\nFrançais - Langue maternelle\nEspagnol - Langue maternelle\nAnglais - Professionnel"
   },
   {
     "objectID": "projects/incipit-cris.html",
@@ -85,7 +85,7 @@
     "href": "projects/midas.html",
     "title": "MIDAS (MIcroclimate DAta Stories)",
     "section": "",
-    "text": "Histoire de MIDAS."
+    "text": "Le projet MIDAS porte sur le climat urbain à Genève. Celui-ci a été réalisé en collaboration entre la Haute école de gestion de Genève (HEG-GE) et la Haute école du paysage, d’ingénierie et d’architecture (HEPIA). Il a notamment donné lieu à deux Hackathons SmartCity Xperience, et plusieurs Data Stories.\nDans le cadre de ce projet, il est apparu le besoin de centraliser divers types de données climatiques et de pouvoir les visualiser rapidement et facilement à l’aide d’un dashboard dédié afin de mieux comprendre et anticiper les phénomènes liés au climat urbain. Celui-ci est accessible à l’url suivante : https://gexplore.ch/."
   },
   {
     "objectID": "projects/urbanisons_l_espace_numerique.html",
@@ -107,5 +107,54 @@
     "title": "Wikichain",
     "section": "",
     "text": "Histoire du projet FairChain et Wikichain."
+  },
+  {
+    "objectID": "projects/midas.html#choix-de-la-technologie",
+    "href": "projects/midas.html#choix-de-la-technologie",
+    "title": "MIDAS (MIcroclimate DAta Stories)",
+    "section": "Choix de la technologie",
+    "text": "Choix de la technologie\nPour réaliser le dashboard, nous avons décider d’utiliser le framework Django. Celui-ci nous offre une grande flexibilité pour la récolte de données et leur traitement à l’aide du langage Python, ainsi que la possibilité de créer simplement et efficacement une API REST dédié."
+  },
+  {
+    "objectID": "projects/midas.html#backend",
+    "href": "projects/midas.html#backend",
+    "title": "MIDAS (MIcroclimate DAta Stories)",
+    "section": "Backend",
+    "text": "Backend\nLe backend gère la récolte de données auprès de différentes sources, soit au travers de scraping, ou de requêtes sur leur API. Les données sont traitées, normalisées, puis stockées.\nLe principal enjeu auquel nous avons fait face lors de la normalisation des données a été de convenir d’une échelle de temps identique pour toutes les données indépandemment de leur fréquence de mesure. Afin de conserver une certaine granularité sans détériorer artificiellement des mesures journalières, nous avons opté pour un interval horaire. Les mesures ont donc été ajustées soit en réalisant une moyenne, soit en duplicant la valeur sur cette unité.\nLes emplacements des stations de mesure sont également enregistrés dans notre base de données MySQL. Un système d’utilisateur a également été implémenté afin de permettre la création de Tokens pour l’utilisation de l’API REST mise à disposition."
+  },
+  {
+    "objectID": "projects/midas.html#frontend",
+    "href": "projects/midas.html#frontend",
+    "title": "MIDAS (MIcroclimate DAta Stories)",
+    "section": "Frontend",
+    "text": "Frontend\nLa partie frontend est quant à elle écrite en JavaScript à l’aide de la librairie ECharts pour la visualisation des données. Le dashboard peut être utilisé de deux façons :\nLa première utilise une carte d’OpenStreetMap, centre la vue de celle-ci sur Genève et dessine des marqueurs sur les emplacements dont nous possèdons des données. La sélection s’effectue directement sur les stations et il est possible de choisir le type de mesures à afficher. Elle a spécifiquement été développée pour l’accessibilité et l’expérience utilisateur.\nLa seconde est une vue simplifiée où la sélection des données à afficher s’effectue en choisisant d’abord la source des données, puis la station qui nous intéresse, et finalement les paramètres. Il devient alors possible de croiser plusieurs paramètres différents ou à des échelles de temps différentes. Cette version est destinée à un public qui sait ce qu’il recherche ou souhaite effectuer des requêtes plus complexes."
+  },
+  {
+    "objectID": "projects/midas.html#données",
+    "href": "projects/midas.html#données",
+    "title": "MIDAS (MIcroclimate DAta Stories)",
+    "section": "Données",
+    "text": "Données\nLes données disponibles sur https://gexplore.ch/ sont extraites de la station de mesures de l’HEPIA, des stations de mesure du Service de l’air, du bruit et des rayonnements non ionisants (SABRA) de Genève, ainsi que des mesures de l’Office cantonal de l’eau (OCEau)."
+  },
+  {
+    "objectID": "projects/midas.html#api",
+    "href": "projects/midas.html#api",
+    "title": "MIDAS (MIcroclimate DAta Stories)",
+    "section": "API",
+    "text": "API\nAfin de permettre non seulement la visualisation des données, mais également leur exploitation. Nous avons mis en place une API REST accessible pour les personnes possèdant un compte. Ils peuvent ainsi créer des tokens pour des accès sécurisés et un usage contrôlé afin d’effectuer des requêtes adaptées à leurs besoins en matière de recherche climatique.\nL’objectif est de faciliter l’accès des données climatiques du canton de Genève aux institutions et aux chercheurs."
+  },
+  {
+    "objectID": "projects/midas.html#choix-des-technologies",
+    "href": "projects/midas.html#choix-des-technologies",
+    "title": "MIDAS (MIcroclimate DAta Stories)",
+    "section": "Choix des technologies",
+    "text": "Choix des technologies\nPour réaliser le dashboard, nous avons décidé d’utiliser le framework Django. Celui-ci nous offre une grande flexibilité pour la récolte de données et leur traitement à l’aide du langage Python, ainsi que la possibilité de créer simplement et efficacement une API REST dédiée grâce aux modules déjà existants.\nConcernant la base de données, nous avons opté pour MySQL pour sa rapidité, stabilité et facilité d’utilisation."
+  },
+  {
+    "objectID": "projects/midas.html#code-open-source",
+    "href": "projects/midas.html#code-open-source",
+    "title": "MIDAS (MIcroclimate DAta Stories)",
+    "section": "Code Open Source",
+    "text": "Code Open Source\nLe Dashboard est open source et son code accessible sur GitHub au lien suivant : https://github.com/HEG-MIDAS/MIDAS.\nIl se veut transparent et réutilisable par d’autres organismes souhaitant développer une solution similaire. De plus, le projet est ouvert aux contributions, et nous encourageons les développeurs à participer à l’amélioration et l’évolution de cet outil."
   }
 ]

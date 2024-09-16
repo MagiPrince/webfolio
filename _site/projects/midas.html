@@ -109,8 +109,19 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#choix-des-technologies" id="toc-choix-des-technologies" class="nav-link active" data-scroll-target="#choix-des-technologies">Choix des technologies</a></li>
+  <li><a href="#données" id="toc-données" class="nav-link" data-scroll-target="#données">Données</a></li>
+  <li><a href="#backend" id="toc-backend" class="nav-link" data-scroll-target="#backend">Backend</a></li>
+  <li><a href="#frontend" id="toc-frontend" class="nav-link" data-scroll-target="#frontend">Frontend</a></li>
+  <li><a href="#api" id="toc-api" class="nav-link" data-scroll-target="#api">API</a></li>
+  <li><a href="#code-open-source" id="toc-code-open-source" class="nav-link" data-scroll-target="#code-open-source">Code Open Source</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -122,6 +133,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="quarto-category">Django</div>
     <div class="quarto-category">Python</div>
     <div class="quarto-category">Curation de données</div>
+    <div class="quarto-category">Dashboard</div>
   </div>
   </div>
 
@@ -156,9 +168,42 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Histoire de MIDAS.</p>
+<p><img src="../images/midas/midas.png" class="img-fluid"></p>
+<p>Le projet MIDAS porte sur le climat urbain à Genève. Celui-ci a été réalisé en collaboration entre la Haute école de gestion de Genève (HEG-GE) et la Haute école du paysage, d’ingénierie et d’architecture (HEPIA). Il a notamment donné lieu à deux Hackathons SmartCity Xperience, et plusieurs Data Stories.</p>
+<p>Dans le cadre de ce projet, il est apparu le besoin de centraliser divers types de données climatiques et de pouvoir les visualiser rapidement et facilement à l’aide d’un dashboard dédié afin de mieux comprendre et anticiper les phénomènes liés au climat urbain. Celui-ci est accessible à l’url suivante : <a href="https://gexplore.ch/">https://gexplore.ch/</a>.</p>
+<section id="choix-des-technologies" class="level2">
+<h2 class="anchored" data-anchor-id="choix-des-technologies">Choix des technologies</h2>
+<p>Pour réaliser le dashboard, nous avons décidé d’utiliser le framework Django. Celui-ci nous offre une grande flexibilité pour la récolte de données et leur traitement à l’aide du langage Python, ainsi que la possibilité de créer simplement et efficacement une API REST dédiée grâce aux modules déjà existants.</p>
+<p>Concernant la base de données, nous avons opté pour MySQL pour sa rapidité, stabilité et facilité d’utilisation.</p>
+</section>
+<section id="données" class="level2">
+<h2 class="anchored" data-anchor-id="données">Données</h2>
+<p>Les données disponibles sur <a href="https://gexplore.ch/">https://gexplore.ch/</a> sont extraites de la station de mesures de l’HEPIA, des stations de mesure du Service de l’air, du bruit et des rayonnements non ionisants (SABRA) de Genève, ainsi que des mesures de l’Office cantonal de l’eau (OCEau).</p>
+</section>
+<section id="backend" class="level2">
+<h2 class="anchored" data-anchor-id="backend">Backend</h2>
+<p>Le backend gère la récolte de données auprès de différentes sources, soit au travers de scraping, ou de requêtes sur leur API. Les données sont traitées, normalisées, puis stockées.</p>
+<p>Le principal enjeu auquel nous avons fait face lors de la normalisation des données a été de convenir d’une échelle de temps identique pour toutes les données indépandemment de leur fréquence de mesure. Afin de conserver une certaine granularité sans détériorer artificiellement des mesures journalières, nous avons opté pour un interval horaire. Les mesures ont donc été ajustées soit en réalisant une moyenne, soit en duplicant la valeur sur cette unité.</p>
+<p>Les emplacements des stations de mesure sont également enregistrés dans notre base de données MySQL. Un système d’utilisateur a également été implémenté afin de permettre la création de Tokens pour l’utilisation de l’API REST mise à disposition.</p>
+</section>
+<section id="frontend" class="level2">
+<h2 class="anchored" data-anchor-id="frontend">Frontend</h2>
+<p>La partie frontend est quant à elle écrite en JavaScript à l’aide de la librairie ECharts pour la visualisation des données. Le dashboard peut être utilisé de deux façons :</p>
+<p>La première utilise une carte d’OpenStreetMap, centre la vue de celle-ci sur Genève et dessine des marqueurs sur les emplacements dont nous possèdons des données. La sélection s’effectue directement sur les stations et il est possible de choisir le type de mesures à afficher. Elle a spécifiquement été développée pour l’accessibilité et l’expérience utilisateur.</p>
+<p>La seconde est une vue simplifiée où la sélection des données à afficher s’effectue en choisisant d’abord la source des données, puis la station qui nous intéresse, et finalement les paramètres. Il devient alors possible de croiser plusieurs paramètres différents ou à des échelles de temps différentes. Cette version est destinée à un public qui sait ce qu’il recherche ou souhaite effectuer des requêtes plus complexes.</p>
+</section>
+<section id="api" class="level2">
+<h2 class="anchored" data-anchor-id="api">API</h2>
+<p>Afin de permettre non seulement la visualisation des données, mais également leur exploitation. Nous avons mis en place une API REST accessible pour les personnes possèdant un compte. Ils peuvent ainsi créer des tokens pour des accès sécurisés et un usage contrôlé afin d’effectuer des requêtes adaptées à leurs besoins en matière de recherche climatique.</p>
+<p>L’objectif est de faciliter l’accès des données climatiques du canton de Genève aux institutions et aux chercheurs.</p>
+</section>
+<section id="code-open-source" class="level2">
+<h2 class="anchored" data-anchor-id="code-open-source">Code Open Source</h2>
+<p>Le Dashboard est open source et son code accessible sur GitHub au lien suivant : <a href="https://github.com/HEG-MIDAS/MIDAS">https://github.com/HEG-MIDAS/MIDAS</a>.</p>
+<p>Il se veut transparent et réutilisable par d’autres organismes souhaitant développer une solution similaire. De plus, le projet est ouvert aux contributions, et nous encourageons les développeurs à participer à l’amélioration et l’évolution de cet outil.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -11,35 +11,88 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/MagiPrince
-    # (additional links excluded for brevity)
 website:
   back-to-top-navigation: true
 ---
 
 ## Expérience professionnelle
 
-**Assistant HES** | Haute Ecole de Gestion de Genève (HEG) — Décembre 2020 - à aujourd'hui
+<!-- — -->
+
+**Assistant HES** | Décembre 2020 - à aujourd'hui
+
+###### Haute Ecole de Gestion de Genève (HEG-GE)
+
+- Proposition et mise en place de solutions techniques pour la réalisation de projets scientifiques.
+- Participation à l’enseignement au sein du Bachelor Information Science.
+
+---
+
+**Formateur** | Décembre 2018 - Août 2020
+
+###### Futurekids
+
+- Assurer les cours et ateliers d’informatique confiés.
+- Assurer le suivi des élèves.
+
+---
+
+**Stagiaire (année passerelle pour entrer à HEPIA)** | Septembre 2016 - Août 2017
+
+###### Haute école du paysage, d'ingénierie et d'architecture (HEPIA)
+
+- ...
+
+---
+
+**Stagiaire (maturité professionnelle commerciale)** | Août 2015 à Août 2016
+
+###### Rolex S.A.
+
+- Gestion de dossiers stagiaires, apprentis, et aides de vacances.
+- Mises à jour des tableaux Excel.
+- Rédaction de lettres, convocations, contrats, certificats.
 
 ## Etudes
 
-**Master en sciences informatiques** | Université de Genève — Septembre 2020 - Février 2024
+**Master en sciences informatiques** | Septembre 2020 - Février 2024
 
-**Bachelor en Ingénierie des technologies de l'information** | Haute école du paysage, d'ingénierie et d'architecture (HEPIA) — Septembre 2017 - Août 2020
+###### Université de Genève (UNIGE)
+
+---
+
+**Bachelor en Ingénierie des technologies de l'information** | Septembre 2017 - Septembre 2020
+
+###### Haute école du paysage, d'ingénierie et d'architecture (HEPIA)
+
+---
+
+**Maturité professionnelle commerciale** | Août 2012 - Août 2016
+
+###### Ecole de commerce Aimée-Stitelmann
 
 ## Compétences
 
-Langages de programmation : Python, JavaScript, Java, C, R, C#, VHDL, SQL.
+**Langages de programmation** : Python, JavaScript, Java, C, R, C#, SQL.
 
-Technologie de conteneurisation : Docker.
+**Bases de données** : MySQL, Postgresql, SQLite.
 
-Frameworks : Django, flask.
+**Technologie de conteneurisation** : Docker.
 
-Bases de données : MySQL, Postgresql.
+**Gestionnaire de versions** : Git.
 
-Autres : Tensorflow.
+**Frameworks** : Django, Flask.
+
+**Outils d'apprentissage automatique** : Tensorflow, Pytorch.
+
+**Suite Microsoft Office** : Word, Excel, PowerPoint, Access.
+
+**Autres** : LaTeX, Quarto.
 
 ## Langues
 
-Français - Langue maternelle
-Espagnol - Langue maternelle
-Anglais - Professionnel
+**Français** - Langue maternelle
+
+**Espagnol** - Langue maternelle
+
+**Anglais** - Professionnel
